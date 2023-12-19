@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>10.3.4</checkstyleVersion>
+    <scanScope>JavaOnly</scanScope>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds">
+      <option value="dc496ff5-e76e-4f79-a29f-2d74e9ab418c" />
+    </option>
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="dc496ff5-e76e-4f79-a29f-2d74e9ab418c" type="LOCAL_FILE" scope="All" description="cs 2340">$PROJECT_DIR$/../raw.githubusercontent.com_Georgia-Tech-CS2340_cs2340-codestyle_master_cs2340_checks.xml</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+</project>
